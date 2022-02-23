@@ -1,0 +1,15 @@
+.navbar {
+  border-radius: 5px;
+  border: 0;
+  background: url(../img/assets/nav-belt_trans.png) repeat-x;
+  text-transform: uppercase;
+  font-family: Roboto,sans-serif;
+  font-weight: 700;
+}
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+}
