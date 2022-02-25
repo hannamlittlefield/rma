@@ -4018,6 +4018,7 @@ textarea.form-control-lg {
   text-align: center;
 }
 
+
 .nav-fill .nav-item .nav-link,
 .nav-justified .nav-item .nav-link {
   width: 100%;
@@ -4028,6 +4029,7 @@ textarea.form-control-lg {
 }
 .tab-content > .active {
   display: block;
+  background-color: #000;
 }
 
 .navbar {
@@ -4458,6 +4460,7 @@ textarea.form-control-lg {
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
   color: rgba(0, 0, 0, 0.9);
+  background-color: #000;
 }
 .navbar-light .navbar-toggler {
   color: rgba(0, 0, 0, 0.55);
@@ -4493,6 +4496,7 @@ textarea.form-control-lg {
 .navbar-dark .navbar-nav .show > .nav-link,
 .navbar-dark .navbar-nav .nav-link.active {
   color: #fff;
+  background-color: #000;
 }
 .navbar-dark .navbar-toggler {
   color: rgba(255, 255, 255, 0.55);
