@@ -11469,7 +11469,7 @@ section.resume-section .resume-section-content {
   width: 12px;
   height: 12px;
   background: #fff;
-  border: 2px solid #ccc;
+  border: 2px solid #000;
   position: absolute;
   left: 0;
   top: 4px;
@@ -11500,7 +11500,7 @@ section.resume-section .resume-section-content {
 }
 
 .list-timeline.list-timeline-light .list-timeline-item:before {
-  border-color: #f8f9fa
+  border-color: #000;
 }
 
 .list-timeline.list-timeline-grey .list-timeline-item.active:before,
